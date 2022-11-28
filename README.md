@@ -1,4 +1,8 @@
 # IOT-BASED HEALTH MONITORING SYSTEM
+
+## Contributor
+
+
 Karel Chavez (1922017)
 
 Rizky Sandiary (1922014)
@@ -15,3 +19,7 @@ Anisa Wijaya (1922008)
 
 Muhammad Rizky Fadillah(1922013)
 
+
+## Resource
+Link Video Youtube :
+https://youtu.be/cucuJEJcOdA
