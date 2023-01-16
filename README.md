@@ -23,3 +23,5 @@ Muhammad Rizky Fadillah(1922013)
 ## Resource
 Link Video Youtube :
 https://youtu.be/cucuJEJcOdA
+Link Video UAS Youtube :
+https://youtu.be/CigcUa_j5gs
